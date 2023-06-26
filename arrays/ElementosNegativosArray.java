@@ -1,4 +1,4 @@
-package app;
+package arrays;
 import java.util.Scanner;
 import java.util.ArrayList;
 public class ElementosNegativosArray {

@@ -1,3 +1,5 @@
+package algoritmos;
+
 import java.util.Scanner;
 
 class verificadorIdade {
